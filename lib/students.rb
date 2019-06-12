@@ -1,6 +1,7 @@
 
 
 def highest_student_gpa
+  "SELECT MAX(column_name) FROM table_name;"
 end
 
 def lowest_student_gpa
